@@ -1,0 +1,212 @@
+﻿  stdafx.cpp
+  NativeDLL.cpp
+c:\users\administrator\desktop\ame3.3\xex\Natives.h(2590): warning C4305: 'argument' : truncation from '__int64' to 'unsigned int'
+c:\users\administrator\desktop\ame3.3\xex\Natives.h(2590): warning C4309: 'argument' : truncation of constant value
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(857): error C2011: 'ScaleformButtons' : 'enum' type redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(339) : see declaration of 'ScaleformButtons'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(954): error C2374: 'submenu' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(486) : see declaration of 'submenu'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(955): error C2086: 'int submenuLevel' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(487) : see declaration of 'submenuLevel'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(956): error C2086: 'int lastSubmenu[20]' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(489) : see declaration of 'lastSubmenu'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(957): error C2086: 'int lastOption[20]' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(490) : see declaration of 'lastOption'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(958): error C2086: 'int currentOption' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(491) : see declaration of 'currentOption'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(959): error C2086: 'int optionCount' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(492) : see declaration of 'optionCount'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(961): error C2086: 'char *infoText' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(494) : see declaration of 'infoText'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(965): error C2374: 'optionPress' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(727) : see declaration of 'optionPress'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(966): error C2374: 'rightPress' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(728) : see declaration of 'rightPress'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(967): error C2374: 'leftPress' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(729) : see declaration of 'leftPress'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(968): error C2374: 'fastRightPress' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(730) : see declaration of 'fastRightPress'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(969): error C2374: 'fastLeftPress' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(731) : see declaration of 'fastLeftPress'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(970): error C2374: 'squarePress' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(732) : see declaration of 'squarePress'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(971): error C2374: 'newTimerTick' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(735) : see declaration of 'newTimerTick'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(972): error C2086: 'int maxTimerCount' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(736) : see declaration of 'maxTimerCount'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(975): error C2374: 'menuSounds' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(739) : see declaration of 'menuSounds'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(976): error C2374: 'keyboardActive' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(740) : see declaration of 'keyboardActive'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(977): error C2086: 'int keyboardAction' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(741) : see declaration of 'keyboardAction'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(978): error C2374: 'keyboardVar' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(742) : see declaration of 'keyboardVar'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(979): error C2040: 'keyboardVar2' : 'int' differs in levels of indirection from 'float *'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(981): error C2086: 'int selectedPlayer' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(744) : see declaration of 'selectedPlayer'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(983): error C2374: 'nocliploop' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(521) : see declaration of 'nocliploop'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(985): error C2374: 'ToggleHeatVision' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(523) : see declaration of 'ToggleHeatVision'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(986): error C2374: 'ToggleNightVision' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(524) : see declaration of 'ToggleNightVision'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(987): error C2374: 'kamikaze' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(525) : see declaration of 'kamikaze'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(989): error C2374: 'FreezeModelProtection' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(527) : see declaration of 'FreezeModelProtection'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(990): error C2374: 'AttachObjectsProtection' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(528) : see declaration of 'AttachObjectsProtection'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(991): error C2374: 'AttachObjectsProtection2' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(529) : see declaration of 'AttachObjectsProtection2'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(992): error C2374: 'FreezeStungunProtection' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(530) : see declaration of 'FreezeStungunProtection'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(993): error C2374: 'FreezeCarProtection' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(531) : see declaration of 'FreezeCarProtection'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(994): error C2374: 'DrawTV' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(532) : see declaration of 'DrawTV'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(995): error C2374: 'AttachProtection' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(533) : see declaration of 'AttachProtection'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(996): error C2086: 'int ExplosionType' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(534) : see declaration of 'ExplosionType'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(997): error C2086: 'int ObjectType' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(535) : see declaration of 'ObjectType'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(998): error C2374: 'set_massacre_mode' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(536) : see declaration of 'set_massacre_mode'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(999): error C2374: 'PickupItem' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(537) : see declaration of 'PickupItem'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1000): error C2374: 'CustomTires' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(538) : see declaration of 'CustomTires'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1001): error C2374: 'rsPress' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(539) : see declaration of 'rsPress'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1002): error C2374: 'rbPress' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(540) : see declaration of 'rbPress'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1003): error C2086: 'float objectcoordx' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(541) : see declaration of 'objectcoordx'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1003): error C2086: 'float objectcoordy' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(541) : see declaration of 'objectcoordy'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1003): error C2086: 'float objectcoordz' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(541) : see declaration of 'objectcoordz'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1003): error C2086: 'float objectheading' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(541) : see declaration of 'objectheading'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1003): error C2374: 'objectpitch' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(541) : see declaration of 'objectpitch'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1003): error C2374: 'objectroll' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(541) : see declaration of 'objectroll'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1003): error C2374: 'objectyaw' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(541) : see declaration of 'objectyaw'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1004): error C2374: 'neverwanted' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(542) : see declaration of 'neverwanted'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1005): error C2374: 'superjump' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(543) : see declaration of 'superjump'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1006): error C2374: 'setrank' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(544) : see declaration of 'setrank'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1007): error C2374: 'setbountymoney' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(545) : see declaration of 'setbountymoney'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1008): error C2374: 'ObjectCashDrop' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(546) : see declaration of 'ObjectCashDrop'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1009): error C2374: 'TOGGLEANITAFK' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(547) : see declaration of 'TOGGLEANITAFK'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1010): error C2374: 'DragonMode3' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(548) : see declaration of 'DragonMode3'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1011): error C2374: 'DragonMode2' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(549) : see declaration of 'DragonMode2'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1012): error C2374: 'DragonMode' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(550) : see declaration of 'DragonMode'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1013): error C2374: 'Quick_Fix' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(551) : see declaration of 'Quick_Fix'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1014): error C2374: 'smokeOn' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(552) : see declaration of 'smokeOn'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1015): error C2374: 'mainDeerHandleExists' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(553) : see declaration of 'mainDeerHandleExists'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1016): error C2374: 'ShootBulletAPlayer' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(554) : see declaration of 'ShootBulletAPlayer'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1017): error C2374: 'Explosions' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(555) : see declaration of 'Explosions'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1018): error C2374: 'ObjectSpawnerVeh' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(556) : see declaration of 'ObjectSpawnerVeh'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1019): error C2374: 'VehicleSmokeloop' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(557) : see declaration of 'VehicleSmokeloop'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1020): error C2374: 'PedOnlineSpawner' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(558) : see declaration of 'PedOnlineSpawner'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1021): error C2374: 'smokeType' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(559) : see declaration of 'smokeType'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1022): error C2374: 'MoneyGun' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(560) : see declaration of 'MoneyGun'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1023): error C2374: 'menuToggler' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(561) : see declaration of 'menuToggler'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1024): error C2374: 'spawnChauffer' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(562) : see declaration of 'spawnChauffer'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1025): error C2374: 'ShootRockets' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(563) : see declaration of 'ShootRockets'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1026): error C2374: 'ShootGreenLazers' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(564) : see declaration of 'ShootGreenLazers'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1027): error C2374: 'ShootRedLazers' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(565) : see declaration of 'ShootRedLazers'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1028): error C2374: 'ShootFlares' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(566) : see declaration of 'ShootFlares'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1029): error C2374: 'ShootSnowballs' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(567) : see declaration of 'ShootSnowballs'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1030): error C2374: 'ShootSmokes' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(568) : see declaration of 'ShootSmokes'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1031): error C2374: 'RemoveObjectGun' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(569) : see declaration of 'RemoveObjectGun'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1032): error C2374: 'FolowWaves' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(570) : see declaration of 'FolowWaves'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1033): error C2374: 'VehicleMachineguns' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(571) : see declaration of 'VehicleMachineguns'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1034): error C2374: 'VehicleFireworks' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(572) : see declaration of 'VehicleFireworks'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1035): error C2374: 'SuperMachineguns' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(573) : see declaration of 'SuperMachineguns'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1036): error C2374: 'partWater' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(574) : see declaration of 'partWater'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1037): error C2374: 'loop_gta2cam' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(575) : see declaration of 'loop_gta2cam'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1038): error C2374: 'DISPLAYHUD' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(576) : see declaration of 'DISPLAYHUD'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1039): error C2374: 'DisplayMiniMap' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(577) : see declaration of 'DisplayMiniMap'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1040): error C2374: 'Black_Out' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(578) : see declaration of 'Black_Out'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1041): error C2374: 'pinfo' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(579) : see declaration of 'pinfo'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1042): error C2086: 'int onlinePlayerinfo' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(580) : see declaration of 'onlinePlayerinfo'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1043): error C2086: 'int onlinePlayerinfo1' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(581) : see declaration of 'onlinePlayerinfo1'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1044): error C2374: 'PrintHeadset' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(582) : see declaration of 'PrintHeadset'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1045): error C2086: 'int playerCar' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(583) : see declaration of 'playerCar'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1046): error C2086: 'int thisPlayersCar' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(584) : see declaration of 'thisPlayersCar'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1047): error C2086: 'float pedheading' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(585) : see declaration of 'pedheading'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1048): error C2086: 'int pedHealth' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(586) : see declaration of 'pedHealth'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1049): error C2086: 'int pedArmour' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(587) : see declaration of 'pedArmour'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1050): error C2086: 'int pedPassengers' : redefinition
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(588) : see declaration of 'pedPassengers'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1051): error C2374: 'infor' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(589) : see declaration of 'infor'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1052): error C2374: 'infog' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(590) : see declaration of 'infog'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1053): error C2374: 'infob' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(591) : see declaration of 'infob'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1054): error C2374: 'reco' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(592) : see declaration of 'reco'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1055): error C2374: 'itemfont' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(593) : see declaration of 'itemfont'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1056): error C2374: 'SetTVChannel' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(594) : see declaration of 'SetTVChannel'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1057): error C2374: 'SetTVVolume' : redefinition; multiple initialization
+          c:\users\administrator\desktop\ame3.3\xex\Variables.h(595) : see declaration of 'SetTVVolume'
+c:\users\administrator\desktop\ame3.3\xex\Variables.h(1057): fatal error C1003: error count exceeds 100; stopping compilation
+  Network.cc
+  Tools.cc
+Tools.cc(402): warning C4244: '=' : conversion from 'DWORD' to 'BYTE', possible loss of data
+Tools.cc(461): warning C4172: returning address of local variable or temporary
+Tools.cc(471): warning C4172: returning address of local variable or temporary
+  xboxGTAVInput.cc

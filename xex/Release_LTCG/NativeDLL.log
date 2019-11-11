@@ -1,0 +1,32 @@
+﻿     0>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.Redirect.10.props(23,3): warning MSB4011: "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Xbox 360\Microsoft.Cpp.Xbox 360.default.props" cannot be imported again. It was already imported at "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Default.props (105,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\NativeDLL.vcxproj]
+Build started 10/27/2016 7:41:37 PM.
+     1>Project "C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\NativeDLL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /Zi /nologo /W3 /WX- /Ox /Os /GL /D NDEBUG /D _XBOX /D LTCG /GF /Gm- /MT /GS- /Gy /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Yc"StdAfx.h" /Fp"C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\Release_LTCG\NativeDLL.pch" /Fo"Release_LTCG\\" /Fd"Release_LTCG\vc100.pdb" /TP stdafx.cpp /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\include\xbox\xbox_intellisense_platform.h"
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\CL.exe /c /Zi /nologo /W3 /WX- /Ox /Os /GL /D NDEBUG /D _XBOX /D LTCG /GF /Gm- /MT /GS- /Gy /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /GR- /openmp- /Yu"StdAfx.h" /Fp"C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\Release_LTCG\NativeDLL.pch" /Fo"Release_LTCG\\" /Fd"Release_LTCG\vc100.pdb" /TP NativeDLL.cpp Network.cc Tools.cc xboxGTAVInput.cc /FI"C:\Program Files (x86)\Microsoft Xbox 360 SDK\include\xbox\xbox_intellisense_platform.h"
+         NativeDLL.cpp
+     1>c:\users\riley\desktop\enforcer v2.0 - jamie\Design.h(178): warning C4172: returning address of local variable or temporary
+     1>c:\users\riley\desktop\enforcer v2.0 - jamie\Design.h(187): warning C4172: returning address of local variable or temporary
+         Network.cc
+         Tools.cc
+     1>Tools.cc(402): warning C4244: '=' : conversion from 'DWORD' to 'BYTE', possible loss of data
+     1>Tools.cc(461): warning C4172: returning address of local variable or temporary
+     1>Tools.cc(471): warning C4172: returning address of local variable or temporary
+         xboxGTAVInput.cc
+       Link:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\Release_LTCG\NativeDLL.exe" /INCREMENTAL:NO /NOLOGO xapilib.lib d3d9ltcg.lib d3dx9.lib xgraphics.lib xboxkrnl.lib xnet.lib xaudio2.lib xact3ltcg.lib x3daudioltcg.lib xmcoreltcg.lib vcomp.lib /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\Release_LTCG\NativeDLL.pdb" /STACK:"262144","262144" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /RELEASE /IMPLIB:"C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\Release_LTCG\NativeDLL.lib" Release_LTCG\NativeDLL.obj
+         Release_LTCG\Network.obj
+         Release_LTCG\stdafx.obj
+         Release_LTCG\Tools.obj
+         Release_LTCG\xboxGTAVInput.obj /ignore:4089 /dll /entry:"_DllMainCRTStartup" /ALIGN:128,4096 /XEX:NO
+         Generating code
+     1>c:\users\riley\desktop\enforcer v2.0 - jamie\tools.cc(387): warning C4715: 'Tools::getAddedValueDWORD' : not all control paths return a value
+         Finished generating code
+       ImageXex:
+         C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32\imagexex.exe /out:"C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\Release_LTCG\GTAVEnforcer.xex" /config:"NativeDLL.xml" "C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\Release_LTCG\NativeDLL.exe" 
+     1>Done Building Project "C:\Users\riley\Desktop\Enforcer v2.0 - Jamie\NativeDLL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.48

@@ -1,0 +1,26 @@
+C:\Users\Elite Venom\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Elite Venom\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Elite Venom\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Elite Venom\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Elite Venom\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\Elite Venom\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Elite Venom\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Elite Venom\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Elite Venom\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\riley\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\riley\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\riley\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\riley\Desktop\Server\Server\bin\Debug\Enforcer Server.exe.config
+C:\Users\riley\Desktop\Server\Server\bin\Debug\Enforcer Server.exe
+C:\Users\riley\Desktop\Server\Server\bin\Debug\Enforcer Server.pdb
+C:\Users\riley\Desktop\Server\Server\obj\Debug\Enforcer Server.exe
+C:\Users\riley\Desktop\Server\Server\obj\Debug\Enforcer Server.pdb
+C:\Users\riley\Desktop\old server auth\Server\Server\bin\Debug\Enforcer Server.exe.config
+C:\Users\riley\Desktop\old server auth\Server\Server\obj\Debug\Enforcer Server.exe
+C:\Users\riley\Desktop\old server auth\Server\Server\obj\Debug\Enforcer Server.pdb
+C:\Users\riley\Desktop\old server auth\Server\Server\bin\Debug\Enforcer Server.exe
+C:\Users\riley\Desktop\old server auth\Server\Server\bin\Debug\Enforcer Server.pdb
+C:\Users\riley\Desktop\old server auth\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\riley\Desktop\old server auth\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\riley\Desktop\old server auth\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\riley\Desktop\old server auth\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
